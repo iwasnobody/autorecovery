@@ -17,7 +17,7 @@ response = client.put_metric_alarm(
     Dimensions=[
         {
             'Name': 'InstanceId',
-            'Value': 'i-03fb97f61687d0588'
+            'Value': 'i-03fb97f61687dXXXX'
         },
     ],
     Period=60,
